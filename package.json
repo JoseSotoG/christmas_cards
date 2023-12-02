@@ -1,0 +1,23 @@
+{
+  "name": "christmas_cards",
+  "version": "1.0.0",
+  "description": "website for creating Christmas cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseSotoG/christmas_cards.git"
+  },
+  "author": "JoseSotoG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseSotoG/christmas_cards/issues"
+  },
+  "homepage": "https://github.com/JoseSotoG/christmas_cards#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^4.20.1"
+  }
+}
